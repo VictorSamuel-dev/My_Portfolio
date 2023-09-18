@@ -1,8 +1,8 @@
 # My_Portfolio
-    * creating my first portfolio to establish my knowledge in coding for potentional employers;
+    !creating my first portfolio to establish my knowledge in coding for potentional employers;
 
 # Image of the fully function site template
-    * [Screenshot 1](./assets/images/Screenshot%201.png);
+    ![Screenshot 1](./assets/images/Screenshot%201.png);
     * [Screenshot 2](./assets/images/Screenshot%202.png);
     * [Screenshot 3](./assets/images/Screenshot%203.png);
     * [Background Image](./assets/images/background2.JPG);
