@@ -186,8 +186,16 @@ button:hover{
     position: relative;
     overflow: hidden;
     text-align: center;
+    flex-wrap: wrap;
 }
 .card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #f9004d;
+}
+.card img{
     font-size: 50px;
     display: block;
     text-align: center;
@@ -307,7 +315,9 @@ footer p:nth-child(2){
     height: 125px;
     width: 250px;
 }
-
+.card.horiseon{
+    flex-wrap: wrap;
+}
 
 
 
