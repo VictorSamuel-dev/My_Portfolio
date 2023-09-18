@@ -19,3 +19,6 @@
 # Font Family
 - **[Fonts](https://fonts.google.com/)**
 
+# Deployed **(https://victorsamuel-dev.github.io/My_Portfolio/)**
+
+
